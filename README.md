@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dikshit-shrestha-7716a12b9/?trk=public_profile-settings_edit-profile-content&originalsubdomain=np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dikshit-shrestha-7716a12b9/?trk=public_profile-settings_edit-profile-content&originalsubdomain=np" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dikshit-shrestha-7716a12b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dikshit-shrestha-7716a12b9/?trk=public_profile-settings_edit-profile-content&originalsubdomain=np" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
